@@ -28,5 +28,9 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Lo Chuen Yan
+    url: 'http://www.chuenyan.com'
+    type: external
 favicon: null
 purpose: []
