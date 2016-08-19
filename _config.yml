@@ -1,6 +1,6 @@
 name: Lo Chuen Yan
 favicon: null
-layout_spectrum: 0.58356
+layout_spectrum: 0.83649
 typography_spectrum: 0.40398
 author:
   name: Lo Chuen Yan
@@ -32,7 +32,7 @@ color:
     - '#792400'
     - '#dfb468'
   brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.0625
+  lightness: 0.375
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
