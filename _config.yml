@@ -1,38 +1,38 @@
-typography_spectrum: 0.5952162751927972
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8179840908851475
-  lightness: 0.3053826193790883
-  saturation: 0.12089122389443219
-  rhythmicContrast: 0.5527189166750759
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.34296479914337397
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Lo Chuen Yan
+favicon: null
+layout_spectrum: 0.07029
+typography_spectrum: 0.26579
 author:
   name: Lo Chuen Yan
   email: lochuenyan@gmail.com
   url: 'http://www.chuenyan.com'
-name: Lo Chuen Yan
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Lo Chuen Yan
     url: 'http://www.chuenyan.com'
     type: external
-favicon: null
 title: Welcome
 description: Lo Chuen Yan
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#040000'
+    - '#4e0000'
+    - '#ba6b22'
+    - '#792400'
+    - '#dfb468'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
