@@ -1,17 +1,7 @@
 name: Lo Chuen Yan
 favicon: null
-layout_spectrum: 0.72668
-typography_spectrum: 0.40398
-author:
-  name: Lo Chuen Yan
-  email: lochuenyan@gmail.com
-  url: 'http://www.chuenyan.com'
-navigation:
-  - name: Lo Chuen Yan
-    url: 'http://www.chuenyan.com'
-    type: external
-title: Lo Chuen Yan
-description: Lo Chuen Yan
+layout_spectrum: 0.34296479914337397
+typography_spectrum: 0.5952162751927972
 cta:
   domain: null
   bucket: null
@@ -26,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040000'
-    - '#4e0000'
-    - '#ba6b22'
-    - '#792400'
-    - '#dfb468'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.125
-  rhythmicContrast: 0.5
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8179840908851475
+  lightness: 0.3053826193790883
+  saturation: 0.12089122389443219
+  rhythmicContrast: 0.5527189166750759
 purpose: []
